@@ -29,6 +29,7 @@ namespace Double_Extended
         {
             DoubleToLong doubleToLong = new DoubleToLong(number);
             long longNumber = doubleToLong.getLong;
+            long lng = (long)number;
 
             StringBuilder result = new StringBuilder();
             for (int i = 0; i < 64; i++)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\Greatest_Common_Divisor_Tests.csproj": {}
+    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\Greatest_Common_Divisor_Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj": {
+    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj",
+        "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj",
         "projectName": "Greatest_Common_Divisor",
-        "projectPath": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj",
+        "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj",
         "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor\\obj\\",
+        "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\Greatest_Common_Divisor_Tests.csproj": {
+    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\Greatest_Common_Divisor_Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\Greatest_Common_Divisor_Tests.csproj",
+        "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\Greatest_Common_Divisor_Tests.csproj",
         "projectName": "Greatest_Common_Divisor_Tests",
-        "projectPath": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\Greatest_Common_Divisor_Tests.csproj",
+        "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\Greatest_Common_Divisor_Tests.csproj",
         "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\obj\\",
+        "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -92,8 +92,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj": {
-                "projectPath": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj"
+              "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj": {
+                "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj"
               }
             }
           }

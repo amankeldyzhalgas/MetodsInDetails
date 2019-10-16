@@ -5223,11 +5223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Double_Extended_Tests\\Double_Extended_Tests.csproj",
+      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended_Tests\\Double_Extended_Tests.csproj",
       "projectName": "Double_Extended_Tests",
-      "projectPath": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Double_Extended_Tests\\Double_Extended_Tests.csproj",
+      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended_Tests\\Double_Extended_Tests.csproj",
       "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Double_Extended_Tests\\obj\\",
+      "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended_Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5248,8 +5248,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj": {
-              "projectPath": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj"
+            "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj": {
+              "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj"
             }
           }
         }

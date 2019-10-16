@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj",
+      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj",
       "projectName": "Double_Extended",
-      "projectPath": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj",
+      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj",
       "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Double_Extended\\obj\\",
+      "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

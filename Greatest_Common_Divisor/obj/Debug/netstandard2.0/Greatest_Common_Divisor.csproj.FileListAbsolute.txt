@@ -1,0 +1,7 @@
+G:\Мои документы\Рабочий стол\Epam\Tasks\Methods_In_Details\Greatest_Common_Divisor\bin\Debug\netstandard2.0\Greatest_Common_Divisor.deps.json
+G:\Мои документы\Рабочий стол\Epam\Tasks\Methods_In_Details\Greatest_Common_Divisor\bin\Debug\netstandard2.0\Greatest_Common_Divisor.dll
+G:\Мои документы\Рабочий стол\Epam\Tasks\Methods_In_Details\Greatest_Common_Divisor\bin\Debug\netstandard2.0\Greatest_Common_Divisor.pdb
+G:\Мои документы\Рабочий стол\Epam\Tasks\Methods_In_Details\Greatest_Common_Divisor\obj\Debug\netstandard2.0\Greatest_Common_Divisor.AssemblyInfoInputs.cache
+G:\Мои документы\Рабочий стол\Epam\Tasks\Methods_In_Details\Greatest_Common_Divisor\obj\Debug\netstandard2.0\Greatest_Common_Divisor.AssemblyInfo.cs
+G:\Мои документы\Рабочий стол\Epam\Tasks\Methods_In_Details\Greatest_Common_Divisor\obj\Debug\netstandard2.0\Greatest_Common_Divisor.dll
+G:\Мои документы\Рабочий стол\Epam\Tasks\Methods_In_Details\Greatest_Common_Divisor\obj\Debug\netstandard2.0\Greatest_Common_Divisor.pdb

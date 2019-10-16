@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj",
+      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj",
       "projectName": "Greatest_Common_Divisor",
-      "projectPath": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj",
+      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj",
       "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amankeldy_zh\\source\\repos\\Methods_In_Details\\Greatest_Common_Divisor\\obj\\",
+      "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
