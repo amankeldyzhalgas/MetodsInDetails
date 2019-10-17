@@ -1439,14 +1439,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Greatest_Common_Divisor/1.0.0": {
+      "02_Greatest_Common_Divisor/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Greatest_Common_Divisor.dll": {}
+          "bin/placeholder/02_Greatest_Common_Divisor.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Greatest_Common_Divisor.dll": {}
+          "bin/placeholder/02_Greatest_Common_Divisor.dll": {}
         }
       }
     }
@@ -5201,15 +5201,15 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Greatest_Common_Divisor/1.0.0": {
+    "02_Greatest_Common_Divisor/1.0.0": {
       "type": "project",
-      "path": "../Greatest_Common_Divisor/Greatest_Common_Divisor.csproj",
-      "msbuildProject": "../Greatest_Common_Divisor/Greatest_Common_Divisor.csproj"
+      "path": "../Greatest_Common_Divisor/02_Greatest_Common_Divisor.csproj",
+      "msbuildProject": "../Greatest_Common_Divisor/02_Greatest_Common_Divisor.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Greatest_Common_Divisor >= 1.0.0",
+      "02_Greatest_Common_Divisor >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "NUnit3TestAdapter >= 3.13.0",
       "nunit >= 3.12.0"
@@ -5223,9 +5223,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\Greatest_Common_Divisor_Tests.csproj",
-      "projectName": "Greatest_Common_Divisor_Tests",
-      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\Greatest_Common_Divisor_Tests.csproj",
+      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\02_Greatest_Common_Divisor_Tests.csproj",
+      "projectName": "02_Greatest_Common_Divisor_Tests",
+      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\02_Greatest_Common_Divisor_Tests.csproj",
       "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
       "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor_Tests\\obj\\",
       "projectStyle": "PackageReference",
@@ -5248,8 +5248,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj": {
-              "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor\\Greatest_Common_Divisor.csproj"
+            "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor\\02_Greatest_Common_Divisor.csproj": {
+              "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Greatest_Common_Divisor\\02_Greatest_Common_Divisor.csproj"
             }
           }
         }

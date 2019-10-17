@@ -1439,14 +1439,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Double_Extended/1.0.0": {
+      "01_Double_Extended/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Double_Extended.dll": {}
+          "bin/placeholder/01_Double_Extended.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Double_Extended.dll": {}
+          "bin/placeholder/01_Double_Extended.dll": {}
         }
       }
     }
@@ -5201,15 +5201,15 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Double_Extended/1.0.0": {
+    "01_Double_Extended/1.0.0": {
       "type": "project",
-      "path": "../Double_Extended/Double_Extended.csproj",
-      "msbuildProject": "../Double_Extended/Double_Extended.csproj"
+      "path": "../Double_Extended/01_Double_Extended.csproj",
+      "msbuildProject": "../Double_Extended/01_Double_Extended.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Double_Extended >= 1.0.0",
+      "01_Double_Extended >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "NUnit3TestAdapter >= 3.13.0",
       "nunit >= 3.12.0"
@@ -5223,9 +5223,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended_Tests\\Double_Extended_Tests.csproj",
-      "projectName": "Double_Extended_Tests",
-      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended_Tests\\Double_Extended_Tests.csproj",
+      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended_Tests\\01_Double_Extended_Tests.csproj",
+      "projectName": "01_Double_Extended_Tests",
+      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended_Tests\\01_Double_Extended_Tests.csproj",
       "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
       "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended_Tests\\obj\\",
       "projectStyle": "PackageReference",
@@ -5248,8 +5248,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj": {
-              "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj"
+            "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\01_Double_Extended.csproj": {
+              "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\01_Double_Extended.csproj"
             }
           }
         }

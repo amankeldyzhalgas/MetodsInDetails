@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Double_Extended
 {
+    /// <summary>
+    /// Структура DoubleToLong
+    /// </summary>
     [StructLayout(LayoutKind.Explicit)]
     struct DoubleToLong
     {
@@ -11,12 +14,19 @@ namespace Double_Extended
         private double number;
         [FieldOffset(0)]
         private long longNumber;
-
+        /// <summary>
+        /// Конструктор
+        /// </summary>
+        /// <param name="number">
+        /// Вещественное число
+        /// </param>
         public DoubleToLong(double number) : this()
         {
             this.number = number;
         }
-
+        /// <summary>
+        /// Getter longNumber
+        /// </summary>
         public long getLong
         {
             get { return longNumber; }
@@ -25,6 +35,15 @@ namespace Double_Extended
 
     public static class Program
     {
+        /// <summary>
+        /// Метод реализует получения строкового представления вещественного числа в формате IEEE 754.
+        /// </summary>
+        /// <param name="number">
+        /// Число
+        /// </param>
+        /// <returns>
+        /// Строковоего представление вещественного числаНаибольший общий делитель
+        /// </returns>
         public static string Convert(this double number)
         {
             DoubleToLong doubleToLong = new DoubleToLong(number);

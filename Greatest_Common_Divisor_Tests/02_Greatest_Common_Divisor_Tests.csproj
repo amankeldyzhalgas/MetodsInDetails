@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Double_Extended\Double_Extended.csproj" />
+    <ProjectReference Include="..\Greatest_Common_Divisor\02_Greatest_Common_Divisor.csproj" />
   </ItemGroup>
 
 </Project>

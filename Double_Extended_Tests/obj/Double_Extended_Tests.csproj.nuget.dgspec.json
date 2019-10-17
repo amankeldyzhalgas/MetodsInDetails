@@ -4,12 +4,12 @@
     "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended_Tests\\Double_Extended_Tests.csproj": {}
   },
   "projects": {
-    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj": {
+    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\01_Double_Extended.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj",
-        "projectName": "Double_Extended",
-        "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj",
+        "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\01_Double_Extended.csproj",
+        "projectName": "01_Double_Extended",
+        "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\01_Double_Extended.csproj",
         "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
         "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\obj\\",
         "projectStyle": "PackageReference",
@@ -92,8 +92,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj": {
-                "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\Double_Extended.csproj"
+              "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\01_Double_Extended.csproj": {
+                "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Double_Extended\\01_Double_Extended.csproj"
               }
             }
           }

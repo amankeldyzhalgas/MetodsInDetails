@@ -2030,17 +2030,17 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Boolean_Extended/1.0.0": {
+      "03_Boolean_Extended/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "MSTest.TestFramework": "1.4.0"
         },
         "compile": {
-          "bin/placeholder/Boolean_Extended.dll": {}
+          "bin/placeholder/03_Boolean_Extended.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Boolean_Extended.dll": {}
+          "bin/placeholder/03_Boolean_Extended.dll": {}
         }
       }
     }
@@ -6783,15 +6783,15 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Boolean_Extended/1.0.0": {
+    "03_Boolean_Extended/1.0.0": {
       "type": "project",
-      "path": "../Boolean_Extended/Boolean_Extended.csproj",
-      "msbuildProject": "../Boolean_Extended/Boolean_Extended.csproj"
+      "path": "../Boolean_Extended/03_Boolean_Extended.csproj",
+      "msbuildProject": "../Boolean_Extended/03_Boolean_Extended.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Boolean_Extended >= 1.0.0",
+      "03_Boolean_Extended >= 1.0.0",
       "MSTest.TestAdapter >= 1.4.0",
       "MSTest.TestFramework >= 1.4.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
@@ -6806,9 +6806,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended_MSTests\\Boolean_Extended_MSTests.csproj",
-      "projectName": "Boolean_Extended_MSTests",
-      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended_MSTests\\Boolean_Extended_MSTests.csproj",
+      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended_MSTests\\03_Boolean_Extended_MSTests.csproj",
+      "projectName": "03_Boolean_Extended_MSTests",
+      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended_MSTests\\03_Boolean_Extended_MSTests.csproj",
       "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
       "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended_MSTests\\obj\\",
       "projectStyle": "PackageReference",
@@ -6831,8 +6831,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended\\Boolean_Extended.csproj": {
-              "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended\\Boolean_Extended.csproj"
+            "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended\\03_Boolean_Extended.csproj": {
+              "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended\\03_Boolean_Extended.csproj"
             }
           }
         }

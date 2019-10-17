@@ -298,9 +298,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended\\Boolean_Extended.csproj",
-      "projectName": "Boolean_Extended",
-      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended\\Boolean_Extended.csproj",
+      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended\\03_Boolean_Extended.csproj",
+      "projectName": "03_Boolean_Extended",
+      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended\\03_Boolean_Extended.csproj",
       "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
       "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\Methods_In_Details\\Boolean_Extended\\obj\\",
       "projectStyle": "PackageReference",
